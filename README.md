@@ -6,6 +6,11 @@
 
 `O teste se resume na criação de um APP dentro da Zendesk, com as características citadas abaixo, utilizando apenas vanilla JavaScript junto a SDK que já está utilizada como exemplo no boilerplate na pasta app desse repositório. Boa sorte, e happy coding 😄`
 
+### O que você precisa fazer? ⭐
+
+1. Alterar o manifest, para que o APP fique disponível ao invés da barra lateral de usuário, fique na página de tickets.
+2. A
+
 ## Documentação de como utilizar o ZAF (Zendesk App Framework)
 
 - Documentação do ZAF com as classes e funções que você pode utilizar dentro do APP, algumas delas já estão dentro da pasta de exemplo: https://developer.zendesk.com/api-reference/apps/apps-core-api/client_api/
@@ -22,4 +27,6 @@
 
 ![Visualizações](visualizacoes.png?raw=true)
 
-- Após entrar no ticket, siga para a barra lateral direita(sidebar),  
+- Após entrar no ticket, siga para a barra lateral direita(sidebar), e selecione o menu APP's para visualizá-lo.
+
+![Ver APP no Ticket](ver_app_ticket.png?raw=true)
