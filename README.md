@@ -17,7 +17,11 @@
 
 ## Alocando o APP na Zendesk
 
-- Primeiramente, crie uma conta Trial(gratuita) [clicando aqui](https://www.zendesk.com.br/register) para que você tenha acesso a Zendesk. Após validar seu email, entre na sua instância Zendesk, e vá em *Configurações > Gerenciar > Aplicativos Privados > Carregador aplicativo privado* para que você possa testá-lo dentro da Zendesk. Você precisa compactar em *.zip* a pasta APP para carregá-lo.
+1. Crie uma conta Trial(gratuita) [clicando aqui](https://www.zendesk.com.br/register) para que você tenha acesso a Zendesk.
+2. Após validar seu email, entre na sua instância Zendesk. 
+3. Vá em *Configurações > Gerenciar > Aplicativos Privados > Carregador aplicativo privado* para que você possa testá-lo dentro da Zendesk. 
+
+Atenção: Você precisa compactar em *.zip* a pasta APP para carregá-lo.
 
 ![Admin Zendesk](admin_zendesk.png?raw=true)
 
