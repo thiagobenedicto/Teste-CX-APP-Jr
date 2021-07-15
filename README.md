@@ -8,11 +8,12 @@
 
 ## Documentação de como utilizar o ZAF (Zendesk App Framework)
 
-
+- Documentação do ZAF com as classes e funções que você pode utilizar dentro do APP, algumas delas já estão dentro da pasta de exemplo: https://developer.zendesk.com/api-reference/apps/apps-core-api/client_api/
 
 ## Alocando o APP na Zendesk
 
-- Primeiramente, crie uma conta Trial(gratuita) [clicando aqui](https://www.zendesk.com.br/register) para que você tenha acesso a Zendesk. Após validar seu email, entre na sua instância Zendesk, e vá em *Configurações > Gerenciar > Aplicativos Privados > Carregador aplicativo privado* para que você possa testá-lo dentro da Zendesk. Você precisa compactar em *.zip* a pasta APP e carregá-lo.
+- Primeiramente, crie uma conta Trial(gratuita) [clicando aqui](https://www.zendesk.com.br/register) para que você tenha acesso a Zendesk. Após validar seu email, entre na sua instância Zendesk, e vá em *Configurações > Gerenciar > Aplicativos Privados > Carregador aplicativo privado* para que você possa testá-lo dentro da Zendesk. Você precisa compactar em *.zip* a pasta APP para carregá-lo.
+
 ![Admin Zendesk](admin_zendesk.png?raw=true)
 
 ## Visualizando o APP na Zendesk
