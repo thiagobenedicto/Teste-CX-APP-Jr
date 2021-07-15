@@ -19,9 +19,7 @@
 
 1. Crie uma conta Trial(gratuita) [clicando aqui](https://www.zendesk.com.br/register) para que você tenha acesso a Zendesk.
 2. Após validar seu email, entre na sua instância Zendesk. 
-3. Vá em *Configurações > Gerenciar > Aplicativos Privados > Carregador aplicativo privado* para que você possa testá-lo dentro da Zendesk. 
-
-Atenção: Você precisa compactar em *.zip* a pasta APP para carregá-lo.
+3. Vá em *Configurações > Gerenciar > Aplicativos Privados > Carregador aplicativo privado* para que você possa testá-lo dentro da Zendesk. Atenção: Você precisa compactar em *.zip* a pasta APP para carregá-lo.
 
 ![Admin Zendesk](admin_zendesk.png?raw=true)
 
