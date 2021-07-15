@@ -11,7 +11,7 @@
 1. Alterar o manifest, para que o APP fique disponível ao invés da barra lateral de usuário, fique na página de tickets.
 2. Criação de um botão e campo de texto que irá alterar o assunto do ticket para o padrão `Nome do Ticket + Data e Hora` (dica: trabalhe no App.js)
 
-Dicas: Você pode utilizar a função get: `client.get('ticket.subject')`, para recuperar um objeto. As [referênciais dos objetos do ticket](https://developer.zendesk.com/api-reference/ticketing/tickets/tickets/#json-format) estão na documentação abaixo no Zendesk Support API, em JSON Format.
+Dicas: Você pode utilizar a função get: `client.get('ticket.subject')`, para recuperar um objeto, como `created_at` por exemplo. As [referênciais dos objetos do ticket](https://developer.zendesk.com/api-reference/ticketing/tickets/tickets/#json-format) estão na documentação abaixo no Zendesk Support API, em JSON Format.
 
 ## Documentações úteis ZAF (Zendesk App Framework) e Zendesk Support API
 
