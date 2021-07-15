@@ -15,8 +15,8 @@ Dicas: Você pode utilizar a função get: `client.get('ticket.subject')`, para 
 
 ## Documentações úteis ZAF (Zendesk App Framework) e Zendesk Support API
 
-- Documentação do ZAF com as classes e funções que você pode utilizar dentro do APP, algumas delas já estão dentro da pasta de exemplo: https://developer.zendesk.com/api-reference/apps/apps-core-api/client_api/
-- Documentação do Zendesk Support API para listagem de objetos do ticket: https://developer.zendesk.com/api-reference/ticketing/tickets/tickets/#json-format
+- [Documentação do ZAF com as classes e funções que você pode utilizar dentro do APP, algumas delas já estão dentro da pasta de exemplo](https://developer.zendesk.com/api-reference/apps/apps-core-api/client_api)
+- [Documentação do Zendesk Support API para listagem de objetos do ticket](https://developer.zendesk.com/api-reference/ticketing/tickets/tickets/#json-format)
 
 ## Alocando o APP na Zendesk
 
