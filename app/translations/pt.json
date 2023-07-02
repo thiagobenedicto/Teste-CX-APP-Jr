@@ -1,8 +1,8 @@
 {
   "app": {
-    "name": "ConectCar Clientes",
-    "short_description": "App para consultar base da ConectCar.",
-    "long_description": "App para consultar base da ConectCar.",
+    "name": "Teste-JR - Thiago Benedicto",
+    "short_description": "App para atualizar assunto do ticket.",
+    "long_description": "App vai atualizar o assunto do ticket com a data e hora e depois mostrar os últimos tickets criados pelo solicitante.",
     "installation_instructions": "Insira suas credenciais de URL da API e sua credencial de acesso."
   }
 }

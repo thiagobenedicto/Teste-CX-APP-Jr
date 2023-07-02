@@ -11,6 +11,13 @@
   <body>
     <script src="https://assets.zendesk.com/apps/sdk/2.0/zaf_sdk.min.js"></script>
     <script src="./src/App.js" type="module"></script>
-    <div id="app"></div>
+    <div id="app">
+      <div class="c-txt">
+        <label class="c-txt__label" for="text-id">Assunto do ticket</label>
+        <small class="c-txt__hint">Digite o novo assunto para o ticket</small>
+        <input class="c-txt__input" id="text-id" type="text" />
+      </div>
+      <button class="c-btn" id="btn-update">Atualizar</button>
+    </div>
   </body>
 </html>
