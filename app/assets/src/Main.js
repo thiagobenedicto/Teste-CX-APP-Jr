@@ -15,6 +15,7 @@ const Main = async () => {
     document
       .getElementById('btn-update')
       .addEventListener('click', Core.updateSubject);
+    Core.showRequesterTickets();
   });
 
   // Write App
